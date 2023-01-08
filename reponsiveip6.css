@@ -1,0 +1,465 @@
+@media only screen and (min-device-width: 736px) and (max-device-width: 736px){
+    .txtBanner h1 {
+        font-size: 30px
+      }
+      .menu11 {
+        display: none;
+      }
+      .menuu {
+        display: block
+      }
+      .menu {
+        width: 100%;
+        margin: 0px auto;
+        background: white;
+        height: 50px;
+      }
+      .f11 {
+        display: block;
+        float: right;
+      }
+      .icon i {
+        padding-right: 20px;
+        font-size: 15px;
+        color: #757679
+      }
+      .listProducts {
+        float: left;
+        width: 212px;
+        padding-left: 3%;
+        padding-bottom: 2%;
+      }
+      .listTrending {
+        margin-left: -6%;
+        width: 100%;
+      }
+      .listFollow {
+        width: 100%;
+        margin-left: -4%;
+      }
+      .listTrendingCon {
+        margin-top: 2%;
+        padding-left: 1.5%;
+        width: 280px;
+        float: left;
+        text-align: center;
+      }
+    
+      section {
+        width: 100%;
+      }
+      section .header-section {
+        width: 100%;
+        background-image: url("images/bg-1.jpg");
+        height: auto;
+        background-color: aquamarine;
+      }
+      section .header-section .banner-content {
+        width: 90%;
+      }
+      section .header-section .banner-content h1 {
+        font-size: 25px
+      }
+      section .header-section .banner-content button {
+        margin-bottom: 5%;
+        padding: 10px;
+      }
+      .xoa {
+        clear: both;
+      }
+      .listDS1 {
+        /* display: flex; */
+        width: 100%;
+        text-align: center;
+        padding-left: 5%;
+      }
+      .listIcon {
+        padding-left: 19%;
+        width: 100%;
+      }
+      .listIcontrong {
+        margin-left: 3%;
+        width: 110px;
+        text-align: center;
+        border: 1px solid #d2d4d6;
+        float: left;
+        margin-bottom: 5%;
+      }
+      .listIcontrong img {
+        padding-top: 15%;
+        padding-bottom: 5%;
+        width: 25%;
+      }
+      .listIcontrong p {
+        padding-bottom: 10%;
+        padding-top: 5%;
+        font-size: 6px;
+      }
+      .listIcontrong a {
+        font-size: 7px;
+        color: #020202;
+      }
+      .listTrending {
+        padding-left: 15%;
+        width: 100%;
+      }
+      .listFollow {
+        width: 100%;
+        padding-left: 18%;
+      }
+      .listFollowCon {
+        width: 130px;
+        float: left;
+        padding-left: 2%;
+      }
+      .an1 {
+        display: block;
+      }
+      .slideshow1 {
+        display: none
+      }
+      #slideshow {
+        display: none;
+      }
+      .nono {
+        display: block
+      }
+      section .ban-img {
+        width: 20%;
+        float: left;
+      }
+      .ban-2 {
+        width: 100%;
+        height: auto;
+        background-color: #F7F2EC;
+        margin-bottom: 4%;
+      }
+      .line-sale .buttop {
+        padding: 1.5% 4%;
+        background-color: #FF5353;
+        border-radius: 3px;
+        border: none;
+        color: #fff;
+      }
+      .line-sale h1 {
+        font-size: 35px;
+        padding-bottom: 3%;
+      }
+      .line-sale h4 {
+        font-size: 15px;
+        padding-bottom: 3%;
+      }
+      .line-sale {
+        width: 100%;
+        margin-left: -5%;
+        text-align: center;
+        padding-top: 8%;
+      }
+      .banner2 {
+        display: none;
+      }
+      .icon-an {
+        display: none
+      }
+      footer {
+        width: 100%;
+        height: 20%;
+        background-color: #E9E2D8;
+        display: inline-block;
+        text-align: center
+      }
+      footer .bao {
+        width: 70%;
+        margin-left: 17%;
+      }
+      .footer-infor {
+        padding-top: 5%;
+      }
+      br {
+        display: none
+      }
+      .footer-infor a:hover {
+        color: #e76c7d;
+      }
+      .footer-infor a {
+        color: #888892;
+      }
+      .footer-infor p {
+        margin-top: 10px;
+      }
+      .footer-infor .lin-he img {
+        width: 47%;
+        float: left;
+        padding-left: 6%;
+        margin-top: 5%;
+      }
+      .an-info {
+        display: none
+      }
+      footer .bao1 {
+        width: 20%;
+        margin-left: 17%;
+      }
+      .lien-he2 {
+        width: 10%;
+        display: flex;
+      }
+      .lien-he2 img {
+        margin-left: 50%;
+        margin-top: 50%;
+      }
+      .map {
+        width: 100%;
+        margin-left: 2%;
+      }
+      listTrending {
+        padding-left: 20%;
+        width: 100%;
+      }
+      .listTrendingCon {
+        margin-top: 2%;
+        padding-left: 4%;
+        width: 150px;
+        float: left;
+        text-align: center;
+      }
+      .listTrendingCon img {
+        margin-bottom: 6%;
+      }
+      .listTrendingCon a {
+        font-size: 12px;
+        color: #989898;
+      }
+      .listTrendingCon p {
+        font: 0.5em sans-serif;
+        color: red;
+        padding-top: 2%;
+      }
+      .s35 {
+        padding-top: 1.5%;
+        font-size: 14px;
+      }
+      .line-sale .buttop {
+        margin-bottom: 5%;
+        padding: 1.5% 4%;
+        background-color: #FF5353;
+        border-radius: 3px;
+        border: none;
+        color: #fff;
+      }
+      iframe {
+        height: 200px;
+      }
+      .listVideo {
+        width: 100%;
+        padding-left: 7%;
+      }
+      iframe {
+        width: 95%;
+      }
+      
+      .listVideo
+    {width: 100%;margin-left: 0;}
+    input[type=text], input[type=password] {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+    /* Set a style for all buttons */
+    .container button {
+      background-color: #04AA6D;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+    }
+    .container button:hover {
+      opacity: 0.8;
+    }
+    /* Extra styles for the cancel button */
+    .cancelbtn {
+      width: auto;
+      padding: 10px 18px;
+      background-color: #f44336;
+    }
+    /* Center the image and position the close button */
+    .imgcontainer {
+      text-align: center;
+      margin: 24px 0 12px 0;
+      position: relative;
+    }
+    img.avatar {
+      display:none;
+      width: 40%;
+      border-radius: 50%;
+    }
+    .container {
+      padding: 16px;
+    }
+    span.psw {
+      float: right;
+      padding-top: 16px;
+    }
+    /* The Modal (background) */
+    .modal {
+      display: none;
+      position: fixed;
+      /* Stay in place */
+      z-index: 1;
+      /* Sit on top */
+      left:30%;
+      top: 0;
+      width: 30%;
+      /* Full width */
+      height: auto;
+      /* Full height */
+      overflow: auto;
+      /* Enable scroll if needed */
+      /* background-color: rgb(0,0,0); /* Fallback color 
+    background-color: rgba(0,0,0,0.4); Black w/ opacity */
+      padding-top: 10px;
+    }
+    /* Modal Content/Box */
+    .modal-content {
+      background-color: #fefefe;
+      margin: 5% auto 15% auto;
+      /* 5% from the top, 15% from the bottom and centered */
+      border: 1px solid #888;
+      width: 90%;
+      /* Could be more or less, depending on screen size */
+    }
+    /* The Close Button (x) */
+    .close {
+      position: absolute;
+      right: 25px;
+      top: 0;
+      color: #000;
+      font-size: 35px;
+      font-weight: bold;
+    }
+    .close:hover, .close:focus {
+      color: red;
+      cursor: pointer;
+    }
+    /* Add Zoom Animation */
+    .animate {
+      -webkit-animation: animatezoom 0.6s;
+      animation: animatezoom 0.6s
+    }
+    @-webkit-keyframes animatezoom {
+      from {
+        -webkit-transform: scale(0)
+      }
+      to {
+        -webkit-transform: scale(1)
+      }
+    }
+    @keyframes animatezoom {
+      from {
+        transform: scale(0)
+      }
+      to {
+        transform: scale(1)
+      }
+    }
+    /* Change styles for span and cancel button on extra small screens */
+    @media screen and (max-width: 300px) {
+      span.psw {
+        display: block;
+        float: none;
+      }
+      .cancelbtn {
+        width: 100%;
+      }
+    }
+    .modal1 {
+      display: none;
+      position: fixed;
+      /* Stay in place */
+      z-index: 1;
+      /* Sit on top */
+      left: 0;
+      top: 0;
+      width: 100%;
+      /* Full width */
+      height: auto;
+      /* Full height */
+      overflow: auto;
+      /* Enable scroll if needed */
+      padding-top: 60px;
+    }
+    /* Modal Content/Box */
+    .modal-content1 {
+      text-align: center;
+      background-color: #fefefe;
+      margin: 5% auto 15% auto;
+      /* 5% from the top, 15% from the bottom and centered */
+      border: 1px solid #888;
+      width: 90%;
+      /* Could be more or less, depending on screen size */
+    }
+    .modal-content5 {
+      background-color: #fefefe;
+      margin: 5% auto 15% auto;
+      /* 5% from the top, 15% from the bottom and centered */
+      border: 1px solid #888;
+      width: 90%;
+      /* Could be more or less, depending on screen size */
+    }
+    .modal2 {
+      display: none;
+      position: fixed;
+      /* Stay in place */
+      z-index: 1;
+      /* Sit on top */
+      left: 0;
+      top: 0;
+      width: 100%;
+      /* Full width */
+      height: auto;
+      /* Full height */
+      overflow: auto;
+      /* Enable scroll if needed */
+      /*background-color: rgb(0,0,0); /* Fallback color 
+    background-color: rgba(0,0,0,0.4);  Black w/ opacity */
+      padding-top: 60px;
+    }
+    .modal3 {
+      display: none;
+      position: fixed;
+      /* Stay in place */
+      z-index: 1;
+      /* Sit on top */
+      left: 0;
+      top: 0;
+      width: 100%;
+      /* Full width */
+      height: auto;
+      /* Full height */
+      overflow: auto;
+      /* Enable scroll if needed */
+      /* background-color: rgb(0,0,0); /* Fallback color 
+    background-color: rgba(0,0,0,0.4); Black w/ opacity */
+      padding-top: 60px;
+    }
+    .modal4 {
+      display: none; 
+      position: fixed; /* Stay in place */
+      z-index: 1; /* Sit on top */
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: auto; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      /* background-color: rgb(0,0,0); /* Fallback color 
+      background-color: rgba(0,0,0,0.4); Black w/ opacity */
+     
+    }
+
+    .game1{padding-left:19%;}
+}
